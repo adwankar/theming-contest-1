@@ -1,3 +1,6 @@
+## Download Themes from contest winners
+* Added package with dan theme from contest winner - First Place - Dan Tilden
+
 ## Sencha App Theming Contest
 
 ### Requirements
